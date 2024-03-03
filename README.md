@@ -30,12 +30,12 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 Thanks to the following resources and libraries for making this project possible:
 
-+ [HTML Style CSS] (https://www.w3schools.com/html/html_css.asp)
-+ [Javascript W3S] (https://www.w3schools.com/js/)
-+ [Express.js] (https://expressjs.com/)
-+ [EJS] (https://ejs.co/)
-+ [Nodejs] (https://nodejs.org/docs/latest/api/) 
-+ [PostgreSQL] (https://www.postgresql.org/)
++ [HTML Style CSS](https://www.w3schools.com/html/html_css.asp)
++ [Javascript W3S](https://www.w3schools.com/js/)
++ [Express.js](https://expressjs.com/)
++ [EJS](https://ejs.co/)
++ [Nodejs](https://nodejs.org/docs/latest/api/) 
++ [PostgreSQL]((https://www.postgresql.org/))
 
 ## Contact
 If you have any questions, feel free to contact us at shivadevm@gmail.com.
